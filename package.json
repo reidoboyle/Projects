@@ -1,0 +1,20 @@
+{
+  "name": "reid-oboyle",
+  "version": "1.0.0",
+  "description": "Personal Website ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reidoboyle/Projects.git#main"
+  },
+  "author": "Reid OBoyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reidoboyle/Projects/issues"
+  },
+  "homepage": "https://github.com/reidoboyle/Projects/tree/main#readme"
+}
