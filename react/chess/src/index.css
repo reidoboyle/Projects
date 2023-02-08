@@ -48,3 +48,9 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.title {
+  text-align: center;
+  border: 0.1px solid rgba(124, 106, 106, 0.689);
+  font: 18px "American", Typewriter, serif;
+}
