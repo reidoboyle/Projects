@@ -119,6 +119,13 @@ class Game extends React.Component {
     {
       return;
     }
+    if(this.state.checked)
+    {
+      const moves = this.highlightMoves(this.state.squares,i,j);
+      for(let z=0;z<moves.length;z++)
+      {
+      }
+    }
     //squares[i][j].highlight = true;
     
     if(this.state.grabbedBlock.length == 0)
