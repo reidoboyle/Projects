@@ -1,0 +1,41 @@
+div.main_content{
+    text-align: center;
+    background-color: lightblue;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.twitter-tweet{
+    margin: auto;
+    border-radius: 2px;
+}
+.tweet-list{
+    margin: 1em 5em 1em 5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: lightgray;
+}
+div#loading {
+    display: none;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+
+div#load-image {
+    background: url(/static/loadingimage.gif);
+    cursor: wait;
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
